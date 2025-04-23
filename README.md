@@ -1,4 +1,4 @@
-[![MasterHead]([http:ile istediginiz fotoğrafın linkini buraya yazın](https://innovateintern.com/imageswebp/fswd-banner.webp))
+[![MasterHead](https://innovateintern.com/imageswebp/fswd-banner.webp)
 
 <h1 align="center">Hi 👋, I'm Eren ÇETİN</h1>
 <h3 align="center">A passionate Fullstack developer from Turkey</h3>
